@@ -5,7 +5,7 @@
     <%@include file="/common/head.jsp"%>
 </head>
 <body>
-
+<p>当前位置 : 基础管理 / 客户管理 </p>
 <div id="root">
     <Collapse value="search">
         <Panel name="search">
